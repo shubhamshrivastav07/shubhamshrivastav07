@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhamshrivastav07)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamshrivastav07&rank=SSS,SS,S,AAA,SSS,A,SSS,C&column=8)](https://github.com/ryo-ma/github-profile-trophy)

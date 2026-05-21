@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhamshrivastav07)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamshrivastav07" alt="shubhamshrivastav07" /></a> </p>
